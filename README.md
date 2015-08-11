@@ -87,7 +87,7 @@ Po instalacji możemy w folderze dokumentacji możemy uruchomić make:
 
 Autorzy
 -------
-
+- AS
 - Robert Bednarz <ecg@ecg.vot.pl>
 - Dorota Rybicka <rybicka.dorota@gmail.com>
 - Adam Jurkiewicz <biuro@cyfrowaszkola.waw.pl>
